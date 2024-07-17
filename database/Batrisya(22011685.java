@@ -8,6 +8,7 @@ import java.sql.DriverManager;
  *
  *
  */
+//Admin register parcel is to upload the parcel
 public class adminparcelregistration extends javax.swing.JFrame {
 
     /**
