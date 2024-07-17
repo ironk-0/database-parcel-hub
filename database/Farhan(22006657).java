@@ -11,8 +11,9 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Yusuf
+ * 
  */
+//user register parcel is to find the registered parcel
 public class UserRgisterParcel extends javax.swing.JFrame {
 
     /**
